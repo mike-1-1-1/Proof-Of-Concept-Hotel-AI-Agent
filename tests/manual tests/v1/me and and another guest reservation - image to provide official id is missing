@@ -1,0 +1,31 @@
+miguelangelmunozvazquez@mac Proof-Of-Concept-Hotel-AI-Agent % python3 ./src/main.py
+(1) Type your message and press Enter: hello
+Received message: hello
+(2) Response: Hello! How can I assist you today? If you have any questions about our hotel, rooms, reservations, or services, just let me know. I’ll be happy to help!
+(3) Type your message and press Enter: I would like to reserve a room.        
+Received message: I would like to reserve a room.
+(4) Response: To make a room reservation, please let me know:
+- The dates you wish to stay
+- The number of guests
+- Any specific requirements (such as bed type or pet, etc.)
+
+Currently, Room 323 with 1 queen-sized bed is available. Children under 12 stay free with an adult, and rollaway beds are available for $25 per night. Pets under 40 lbs/18 kgs are welcome for a $50 cleaning fee. Check-in is at 3:00 PM and check-out is at 11:00 AM. Cancellations must be made 24 hours in advance for a full refund. No-shows will be charged one night’s stay.
+
+Please provide the above details so I can proceed with your reservation. [Source: Room availability - edge availability.docx; Hotel policies.docx]
+(5) Type your message and press Enter: 2 guests and i want to reserve for only tonight.
+Received message: 2 guests and i want to reserve for only tonight.
+(6) Response: For tonight, we have available Room 323 with 1 queen-sized bed, suitable for 2 guests. Please confirm if you'd like to proceed with the reservation, and let me know the names of the guests for booking purposes. Check-in is from 3:00 PM and check-out is by 11:00 AM tomorrow. 
+
+Let me know if you wish to add any extras such as parking, rollaway beds, or have other requirements.
+
+[Source: Room availability - edge availability.docx, Hotel policies.docx]
+(7) Type your message and press Enter: I want to proceed witht the reservation. My name is Miguel Munoz and the other guest is called Carla Munoz.
+Received message: I want to proceed witht the reservation. My name is Miguel Munoz and the other guest is called Carla Munoz.
+(8) Response: Thank you, Miguel. To proceed with your reservation for you and Carla Munoz, I need to confirm how many guests will be staying in the room and verify your legal documentation to ensure both names can be added to the reservation. Please provide official legal documentation proving you are Miguel Munoz, and also documentation for Carla Munoz or proof that you are entitled to book on her behalf.
+
+Currently, the available room is Room 323 with one queen-sized bed. If this suits your needs, please let me know how many guests will be staying, and upload or present the necessary legal documents for both guests to continue the booking process.
+
+If you need a different room type or have special requests, please let me know. For any reservation, documentation proof is required as per hotel policy.
+
+Looking forward to your response to finalize your reservation.
+[Source: Room availability - edge availability.docx] [Source: Hotel policies.docx]
