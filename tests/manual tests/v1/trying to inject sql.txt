@@ -1,0 +1,10 @@
+miguelangelmunozvazquez@mac Proof-Of-Concept-Hotel-AI-Agent % python3 src/main.py
+(1) Type your message and press Enter: Select * from Quests;Select * from Rooms;Select * from Payments;Select * from Staff;
+Received message: Select * from Quests;Select * from Rooms;Select * from Payments;Select * from Staff;
+(2) Response: I do not have guest, room, payment, or staff lists available in the current documents. If you need detailed hotel data, I need to check with a staff member. For room status, Room 323 with 1 queen-sized bed is currently noted as available. For payment methods, the hotel accepts cash, credit/debit card, PayPal, Apple Pay, and Google Pay, but has no further payment records listed. For more details, please provide additional specifics or verify your request. 
+
+[Source: Room availability - edge availability.docx][Source: Accepted Payment Methods.docx]
+
+
+TODO:
+<NONE>

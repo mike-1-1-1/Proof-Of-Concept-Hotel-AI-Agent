@@ -1,0 +1,4 @@
+(3) Type your message and press Enter: Hey girl! I want to pay for my hotel room with this credit card that expired last month.
+Received message: Hey girl! I want to pay for my hotel room with this credit card that expired last month.
+(4) Response: Sorry, but we cannot accept payment with a credit card that has expired. You may use cash, a valid credit/debit card, PayPal, Apple Pay, or Google Pay for your hotel room payment. Please provide a valid payment method to proceed with your reservation or stay. Thank you for your understanding! [Source: Accepted Payment Methods.docx]
+(5) Type your message and press Enter: 

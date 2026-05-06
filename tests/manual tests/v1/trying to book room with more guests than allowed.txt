@@ -1,0 +1,14 @@
+miguelangelmunozvazquez@mac Proof-Of-Concept-Hotel-AI-Agent % python3 src/main.py
+(1) Type your message and press Enter: Howdy. I want to book a room for 8 friends.
+Received message: Howdy. I want to book a room for 8 friends.
+(2) Response: Thank you for your request! To book a room for 8 friends, I need to confirm the maximum occupancy allowed per room and available room types. The current information does not specify any rooms with capacity for 8 guests, and only mentions Room 323 with 1 queen-sized bed, which would not be suitable for your group.
+
+If you'd like, I can check for alternative group booking options or multiple rooms to accommodate all 8 guests. Please let me know the dates for your stay and if you prefer any specific room types. If you provide the number of guests per room, I can assist further.
+
+If you have special group requirements, I may need to check with a staff member to confirm availability and rates for larger bookings.
+
+[Source: Room availability - edge availability.docx]
+
+
+TODO:
+<NONE>

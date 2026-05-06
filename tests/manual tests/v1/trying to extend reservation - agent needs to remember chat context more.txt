@@ -1,0 +1,94 @@
+miguelangelmunozvazquez@mac Proof-Of-Concept-Hotel-AI-Agent % python3 src/main.py
+(1) Type your message and press Enter: I want to reserve a room for tonight.
+Received message: I want to reserve a room for tonight.
+(2) Response: Room 323 with 1 queen-sized bed is available for tonight. Could you please let me know how many guests will be staying? Once I have that information, I’ll proceed with your reservation.
+(3) Type your message and press Enter: I'll be the only single guest and room 323 sounds perfect.
+Received message: I'll be the only single guest and room 323 sounds perfect.
+(4) Response: Room 323, which features a queen-sized bed, is available and suitable for a single guest. If you'd like to proceed with booking, please let me know your preferred dates and if you have any special requirements. 
+
+Check-in is at 3:00 PM, and check-out is at 11:00 AM. For payment, we accept cash, credit/debit cards, PayPal, Apple Pay, and Google Pay.
+
+Would you like me to reserve Room 323 for you? If so, please confirm your stay dates. 
+
+[Source: Room availability - edge availability.docx, Hotel policies.docx, Accepted Payment Methods.docx]
+(5) Type your message and press Enter: Yes, please, want to pay with credit card and I want room 323 please. 
+Received message: Yes, please, want to pay with credit card and I want room 323 please.
+(6) Response: Room 323 is available and can be booked. You may pay with a credit card; we accept credit and debit cards as a valid payment method. May I please confirm the number of guests for your booking before proceeding? 
+
+[Source: Room availability - edge availability.docx]  
+[Source: Accepted Payment Methods.docx]
+(7) Type your message and press Enter: only want to book for myself.
+Received message: only want to book for myself.
+(8) Response: You can book a hotel room for yourself. Please specify the number of nights, your preferred room type, and your payment method. Accepted payment methods are Cash, Credit/Debit Card, PayPal, Apple Pay, and Google Pay. Standard check-in time is 3:00 PM, and check-out is at 11:00 AM. Early check-in is available upon request, and cancellations must be made 24 hours in advance for a full refund.
+
+Let me know your preferred room and reservation details to proceed. [Source: Hotel policies.docx, Accepted Payment Methods.docx]
+(9) Type your message and press Enter: only tonight, will checkout tomorrow.
+Received message: only tonight, will checkout tomorrow.
+(10) Response: There is one available room for tonight: Room 323 with 1 queen-sized bed. Standard check-in is at 3:00 PM and check-out is at 11:00 AM tomorrow. Early check-in may be available for a fee, and please note that cancellations must be made 24 hours in advance for a full refund. How many guests will be staying tonight?
+(11) Type your message and press Enter: ONly 1 guest
+Received message: ONly 1 guest
+(12) Response: For a booking with only 1 guest, Room 323 with 1 queen-sized bed is available. Hotel policies allow single occupancy, with standard check-in at 3:00 PM and check-out at 11:00 AM. For meals, you can enjoy single-guest options from the Oakwood Grill’s menu, which offers breakfast, lunch, and dinner, as well as room service daily from 6:30 AM to 10:00 PM. 
+
+If you’d like to make a reservation, please provide your preferred dates.
+(13) Type your message and press Enter: date is today for checkin and checkout is tomorrow.
+Received message: date is today for checkin and checkout is tomorrow.
+(14) Response: For check-in today and checkout tomorrow, our standard check-in time is 3:00 PM and check-out time is 11:00 AM. Early check-in may be available upon request, and fees may apply. Only Room 323 with 1 queen-sized bed is available for this period. If you'd like to proceed with a reservation, please let me know the number of guests.
+
+If you need to request early check-in or late check-out, please contact the front desk. Cancellations must be made 24 hours in advance for a full refund. No-shows will be charged one night’s stay.
+(15) Type your message and press Enter: I want to proceed with the reservation for only 1 person, which is me.
+Received message: I want to proceed with the reservation for only 1 person, which is me.
+(16) Response: Thank you for confirming that the reservation is for one person. The available room for single occupancy is Room 323 with one queen-sized bed. Please let me know if you would like to proceed with booking this room or if you need any additional information or requests before confirming your reservation.
+
+Once you're ready, I'll need your preferred check-in and check-out dates, and your payment method (we accept Cash, Credit/Debit Card, PayPal, Apple Pay, and Google Pay). 
+
+If you need details on hotel policies, check-in times, or cancellation terms, just let me know! 
+[Source: Room availability - edge availability.docx, Accepted Payment Methods.docx, Hotel policies.docx]
+(17) Type your message and press Enter: my preferred check-in date is may 5th and checkout is may 6th. My payment method is credit card.
+Received message: my preferred check-in date is may 5th and checkout is may 6th. My payment method is credit card.
+(18) Response: For your preferred check-in date of May 5th and checkout on May 6th, Room 323 with a queen-sized bed is available. Credit card payments are accepted as a valid payment method. Standard check-in is at 3:00 PM and check-out is at 11:00 AM; early check-in may be requested for an additional fee. Please provide the number of guests for your reservation so I can proceed with booking details. 
+
+If you have any special requirements or wish to request early check-in, let me know! 
+
+[Source: Room availability - edge availability.docx] [Source: Accepted Payment Methods.docx] [Source: Hotel policies.docx]
+(19) Type your message and press Enter: 1 guest
+Received message: 1 guest
+(20) Response: We have room availability for 1 guest—specifically, Room 323 with a queen-sized bed. If you wish to book for 1 guest, please let me know your preferred dates, and I can assist with your reservation. Children under 12 stay free with an adult, and rollaway beds are available for an extra fee if needed. For payment, we accept cash, credit/debit cards, PayPal, Apple Pay, and Google Pay.
+(21) Type your message and press Enter: check in is may 5th and checkot is may 6th. I will pay with credit card for 1 guest for room 323
+Received message: check in is may 5th and checkot is may 6th. I will pay with credit card for 1 guest for room 323
+(22) Response: Room 323 is available for your requested dates (check-in May 5th, check-out May 6th). Payment by credit card is accepted. Standard check-in time is 3:00 PM and check-out is 11:00 AM. Room 323 features 1 queen-sized bed and accommodates 1 guest comfortably.
+
+Would you like to proceed with your booking for 1 guest in Room 323? If so, please provide your full name for the reservation and present your credit card at check-in. 
+
+[Source: Room availability - edge availability.docx, Accepted Payment Methods.docx, Hotel policies.docx]
+(23) Type your message and press Enter: My full name is Miguel Angel Munoz Vazquez
+Received message: My full name is Miguel Angel Munoz Vazquez
+(24) Response: Thank you, Miguel Angel Munoz Vazquez. If you need to manage any reservations or access guest information, please provide official legal documentation as proof of your identity. How may I assist you today? 
+
+[Source: hotel policy.pdf]
+(25) Type your message and press Enter: check in is may 5th and checkot is may 6th. I will pay with credit card for 1 guest for room 323. My full name is Miguel Angel Munoz Vazquez. 
+Received message: check in is may 5th and checkot is may 6th. I will pay with credit card for 1 guest for room 323. My full name is Miguel Angel Munoz Vazquez. 
+(26) Response: Room 323 with a queen-sized bed is available for your requested dates, May 5th to May 6th. Your reservation for 1 guest can be made, and credit card payment is accepted. Standard check-in is at 3:00 PM, and check-out is at 11:00 AM. Please note that cancellations must be made 24 hours in advance for a full refund; otherwise, one night’s stay will be charged for no-shows.
+
+I will proceed with your reservation under the name Miguel Angel Munoz Vazquez unless you’d like to add more preferences or request special services.
+
+Please confirm if you have any specific requirements for your stay.
+
+[Source: Room availability - edge availability.docx]  
+[Source: Accepted Payment Methods.docx]  
+[Source: Hotel policies.docx]
+(27) Type your message and press Enter: I have a reservation under Miguel Angel Munoz Vazquez name.
+Received message: I have a reservation under Miguel Angel Munoz Vazquez name.
+(28) Response: For privacy and security, I need to verify your identity before accessing or sharing reservation details. Please provide official legal documentation that proves you are Miguel Angel Munoz Vazquez or you have legal documentation entitling you to manage information for this reservation.
+
+Once your identification is verified, I’ll be happy to assist further.  If you need general hotel information or policies, just let me know! 
+
+[Source: Hotel policies.docx]
+(29) Type your message and press Enter: I want to extend my reservation.    
+Received message: I want to extend my reservation.
+(30) Response: To extend your reservation, please contact the front desk directly. Early check-in and late check-out options are available for an additional fee, but availability may vary based on occupancy. Let me know the new check-out date you would like and for how many guests, so I can assist with the extension. If you need further assistance or the policy details, please specify your request.
+
+[Source: Hotel policies.docx]
+
+TODO: Need to fix so that agent doesn't forget previous key information from user
+(a text identity classification service may help to keep track of context more efficiently), 
+maybe also lowering agent temperature may help. 

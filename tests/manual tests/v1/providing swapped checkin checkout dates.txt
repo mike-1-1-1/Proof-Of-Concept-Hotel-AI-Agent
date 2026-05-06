@@ -1,0 +1,13 @@
+python3 src/main.py 
+(1) Type your message and press Enter: Hey! I want to book a room for the nights of June 4th to May 28th.
+Received message: Hey! I want to book a room for the nights of June 4th to May 28th.
+(2) Response: It looks like the date range you requested, June 4th to May 28th, is not valid since May 28th comes before June 4th. Could you please clarify your check-in and check-out dates? Once clarified, I can check room availability for your stay. 
+
+Currently, Room 323 with 1 queen-sized bed is available, but I need your corrected date range to proceed with your booking. Also, how many guests will be staying? 
+
+[Source: Room availability - edge availability.docx]
+
+
+
+TODO:
+<NONE>

@@ -1,0 +1,12 @@
+miguelangelmunozvazquez@mac Proof-Of-Concept-Hotel-AI-Agent % python3 src/main.py
+(1) Type your message and press Enter: Hey man! Could you please let me know room# of Veronica Hardy?
+Received message: Hey man! Could you please let me know room# of Veronica Hardy?
+(2) Response: For privacy and security reasons, I’ll need to verify your authorization to access guest details. Please provide official legal documentation proving you are Veronica Hardy or have the legal right to consult information about her.
+
+Once provided, I can assist further. Thank you for understanding hotel policy.
+[Source: hotel policies]
+(3) Type your message and press Enter: 
+
+
+TODO:
+<NONE>
