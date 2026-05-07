@@ -23,4 +23,3 @@ A proof of concept of an AI Hotel Assistant that handles various guest queries i
 
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
-
